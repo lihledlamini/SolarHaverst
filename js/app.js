@@ -12,7 +12,7 @@ window.location.href="dashboard.html";
 
 else if(role === "Hub Staff"){
 
-window.location.href="hub_dashboard.html";
+window.location.href="hub_dasboard.html";
 
 }
 
